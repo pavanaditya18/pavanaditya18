@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Pavan 👋
 
-<!--
-**pavanaditya18/pavanaditya18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CSE (AIML) student currently exploring Data Analysis and Python programming.  
+I enjoy working with datasets, finding patterns, and building small projects to improve my skills.
 
-Here are some ideas to get you started:
+### 🔎 What I'm Learning
+- Python for data analysis  
+- Pandas, NumPy  
+- Matplotlib & Seaborn  
+- SQL  
+- Basic machine learning concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Sales Data Analysis  
+- Netflix Data Analysis  
+- COVID-19 Time Series Study  
+
+More projects coming soon as I continue learning.
+
+### 🎯 Goals
+- Build a solid portfolio in data analytics  
+- Contribute to open-source projects  
+- Improve my skills in Python, SQL, and data visualization  
+
+### 📬 Connect with me
+Feel free to check out my repositories and follow my learning journey here on GitHub.
+
